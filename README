@@ -1,0 +1,10 @@
+Get visitor's geolocation data using IPGeoBase.ru:
+{exp:ipgeobase:location}
+{range}
+{cc} ::
+{city} ::
+{region} ::
+{district} ::
+{lat} ::
+{lng}
+{/exp:ipgeobase:location}
